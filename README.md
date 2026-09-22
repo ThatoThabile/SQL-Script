@@ -7,3 +7,4 @@ EVENTT Table for the race events
 CATEGORY Table for event race categories
 ROUTE Table for event routes
 REGISTRATION Table for participant sign-ups
+Changes
